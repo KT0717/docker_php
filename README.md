@@ -19,7 +19,7 @@ docker-compose up -d
 docker-compose up -d
 ```
 ****
-#### 開発中のアプリのソースをクローン
+#### 開発中のアプリのソースをクローン（招待メンバーのみ）
 docker_php ディレクトリで下記コマンドでソースをクローンしてください
 ```
 mkdir src && src
