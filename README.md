@@ -28,3 +28,14 @@ git clone git@github.com:KT0717/myapp.git .
 ****
 #### ローカルURL
 http://localhost:8080/
+****
+#### SASS導入／軌道（gulpディレクトリで）
+初回のみ
+```
+npm ci
+gulp watch
+```
+２回目以降
+```
+gulp watch
+```
